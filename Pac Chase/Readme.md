@@ -1,0 +1,1 @@
+modification of adafruit neopixel demo to approximate the first cutscene from Pacman arcade in a single line of pixels
